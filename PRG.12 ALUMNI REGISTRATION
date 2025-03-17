@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Alumni Registration</title>
+</head>
+<body bgcolor="#cdcdcd">
+<form>
+<h1 align="center"><b><i><u>Alumni Registration</u></i></b></h1>
+<table>
+<tr>
+<td><label for="name">Name:</label></td>
+<td><input id="name" type="text"></td>
+</tr>
+<tr>
+<td><label for="dob">Date of Birth:</label></td>
+<td><input id="dob" type="date" name="" id=""></td>
+</tr>
+<tr>
+<td><label for="gender">Gender:</label></td>
+<td>
+<input type="radio" name="gender" id="male">Male
+<input type="radio" name="gender" id="female">Female
+</td>
+</tr>
+<tr>
+<td><label for="permanent">Permanent Address:</label></td>
+<td><textarea id="permanent" cols="21" rows="4"></textarea></td>
+</tr>
+<tr>
+<td><label for="communication">Address for Communication:</label></td>
+<td><textarea id="communication" cols="21" rows="4"></textarea></td>
+</tr>
+<tr>
+<td><label for="phone">Phone Number:</label></td>
+<td><input id="phone" type="text"></td>
+</tr>
+<tr>
+<td><label for="email">Email:</label></td>
+<td><input id="email" type="text"></td>
+</tr>
+<tr>
+<td><label for="contact">Mode of Contact:</label></td>
+<td>
+<input type="checkbox" name="email" id="email">Email
+<input type="checkbox" name="post" id="post">Post
+</td>
+</tr>
+<tr>
+<td><input type="submit" value="Submit"></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
