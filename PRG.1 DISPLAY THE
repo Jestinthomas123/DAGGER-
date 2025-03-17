@@ -1,0 +1,106 @@
+friends.html
+
+<html>
+
+<head>
+
+<title>My Friends</title>
+
+</head>
+
+<body>
+
+<h1><b><u>My Friends</u></b></h1>
+
+<h3><a href="john.html">John</a></h3>
+
+<h3><a href="kevin.html">Kevin</a></h3>
+
+<h3><a href="anna.html">Anna</a></h3>
+
+</body>
+
+</html>
+
+john.html
+
+<html>
+
+<head>
+
+<title>John</title>
+
+</head>
+
+<body>
+
+<h1><b><u>John</u></b></h1>
+
+<p>
+
+John is my Friends<br>
+
+He is very friendly to everyone
+
+</p>
+
+<a href="friends.html">Back</a>
+
+</body>
+
+</html>
+kevin.html
+
+<html>
+
+<head>
+
+<title>Kevin</title>
+
+</head>
+
+<body>
+
+<h1><b><u>Kevin</u></b></h1>
+
+<p>
+
+Kevin is my Friends<br>
+
+He is very friendly to everyone
+
+</p>
+
+<a href="friends.html">Back</a>
+
+</body>
+
+</html>
+
+anna.html
+
+<html>
+
+<head>
+
+<title>Anna</title>
+
+</head>
+
+<body>
+
+<h1><b><u>Anna</u></b></h1>
+
+<p>
+
+Anna is my Friends<br>
+
+She is very friendly to everyone
+
+</p>
+
+<a href="friends.html">Back</a>
+
+</body>
+
+</html>
