@@ -1,0 +1,151 @@
+<html>
+
+<head>
+
+<title>Bio-Data</title>
+
+</head>
+
+<body>
+
+<form>
+
+ <h2><u><b>Bio-Data</b></u></h2>
+
+<table border="1">
+
+<tr>
+
+<td>Name:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Religion:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Community:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Address:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Street:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Town:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>District:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>State:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Pincode:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Phone:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Office:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Residence:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Educational Qualification:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>University/Institute:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Month/Year:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+<tr>
+
+<td>Grade/Mark:</td>
+
+<td><input type="text"></td>
+
+</tr>
+
+</table> 
+
+</form>
+
+</body>
+
+</html>
