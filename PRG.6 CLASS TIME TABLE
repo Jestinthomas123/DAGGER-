@@ -1,0 +1,139 @@
+<html>
+
+<head>
+
+<title>Time Table</title>
+
+</head>
+
+<body>
+
+<h2><u>Class Time Table</u></h2>
+
+<table border="2">
+
+<thead>
+
+<tr>
+
+<th>DAY</th>
+
+<th>HOUR 1</th>
+
+<th>HOUR 2</th>
+
+<th>HOUR 3</th>
+
+<th>HOUR 4</th>
+
+<th>HOUR 5</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<th>DAY 1</th>
+
+<td>LINUX LAB</td>
+
+<td>WEB LAB</td>
+
+<td>LINUX</td>
+
+<td>SSOS</td>
+
+<td>ACCOUNTS</td>
+
+</tr>
+
+<tr>
+
+<th>DAY 2</th>
+
+<td>LINUX</td>
+
+<td>ACCOUNTS</td>
+
+<td>LINUX</td>
+
+<td>LIBRARY</td>
+
+<td>SSOS</td>
+
+</tr>
+
+<tr>
+
+<th>DAY 3</th>
+
+<td>SSOS</td>
+
+<td>LINUX</td>
+
+<td>ACCOUNTS</td>
+
+<td>LINUX LAB</td>
+
+<td>WEB LAB</td>
+
+</tr>
+
+<tr>
+
+<th>DAY 4</th>
+
+<td>LINUX</td>
+
+<td>ACCOUNTS</td>
+
+<td>SSOS</td>
+
+<td>WEB LAB</td>
+
+<td>SPORTS</td>
+
+</tr>
+
+<tr>
+
+<th>DAY 5</th>
+
+<td>LINUX LAB</td>
+
+<td>SSOS</td>
+
+<td>LINUX</td>
+
+<td>ACCOUNTS</td>
+
+<td>LINUX LAB</td>
+
+</tr>
+
+<tr>
+
+<th>DAY 6</th>
+
+<td>ACCOUNTS</td>
+
+<td>SSOS</td>
+
+<td>LINUX</td>
+
+<td>LINUX</td>
+
+<td>WEB LAB</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</body>
+
+</html>
