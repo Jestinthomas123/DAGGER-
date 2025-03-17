@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Inter Collegiate</title>
+</head>
+<body>
+<form>
+<fieldset>
+<legend><b>Inter Collegiate Registration</b></legend>
+<table>
+<tr>
+<td><label for="name">Name:</label></td>
+<td><input id="name" type="text"></td>
+</tr>
+<tr>
+<td><label for="department">Department:</label></td>
+<td>
+<select id="department">
+<option value="bca">BCA</option>
+<option value="bsccs">Bsc.CS</option>
+<option value="ba">BA</option>
+<option value="bba">BBA</option>
+<option value="bcom">B.Com</option>
+</select>
+</td>
+</tr>
+<tr>
+<td><label for="college">College:</label></td>
+<td><input id="college" type="text"></td>
+</tr>
+<tr>
+<td><label for="events">Events:</label></td>
+<td>
+<input type="checkbox" id="paperPresentation">Paper Presentation
+<input type="checkbox" id="quiz">Quiz
+<input type="checkbox" id="wordHunt">Word Hunt
+<input type="checkbox" id="webDesigning">Web Designing
+</td>
+</tr>
+</table>
+<button type="submit">Submit</button>
+</form>
+</fieldset>
+</body>
+</html>
