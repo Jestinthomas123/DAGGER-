@@ -1,0 +1,83 @@
+skills.html
+
+<html>
+
+<head>
+
+<title>My Skills</title>
+
+</head>
+
+<body bgcolor="lightblue">
+
+<h1>My Skills</h1>
+
+<h2><a href="singing.html">Singing</a></h2>
+
+<h2><a href="drawing.html">Drawing</a></h2>
+
+<h2><a href="coding.html">Coding</a></h2>
+
+</body>
+
+</html>
+
+singing.html
+
+<html>
+
+<head>
+
+<title>My Skills - Singing</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h1>Singing</h1>
+
+<h2>I'm very interested in singing and I like listening to music</h2>
+
+</body>
+
+</html>
+
+drawing.html
+
+<html>
+
+<head>
+
+<title>My Skills - Drawing</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h1>Drawing</h1>
+
+<h2>I'm very interested in drawing and I like drawing cartoons</h2>
+
+</body>
+
+</html>
+
+coding.html
+
+<html>
+
+<head>
+
+<title>My Skills - Coding</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h1>Coding</h1>
+
+<h2>I'm very interested in coding and I like creating webpages</h2>
+
+</body>
+
+</html>
