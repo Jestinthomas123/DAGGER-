@@ -1,0 +1,53 @@
+<html>
+
+<head> <title>Family Facilities</title></head>
+
+<body>
+
+<h2>The family has the following facilities:</h2>
+
+<ol type="A">
+
+<li>Own House
+
+<ul type="square">
+
+<li>Living area: 2400 sqft</li>
+
+<li>Separate bungalow</li>
+
+<li>Car shed</li>
+
+</ul>
+
+</li>
+
+<li>Cars
+
+<ul type="square">
+
+<li>Rolls Roys Ghost</li>
+
+<li>Reg No: KL 99 AE 1234</li>
+
+<li>Model: 2022</li>
+
+</ul>
+
+</li>
+
+<li>Farm
+
+<ul type="square">
+
+<li>35 Acres Mango</li><li>20 Acres Apple</li>
+
+</ul>
+
+</li>
+
+</ol>
+
+</body>
+
+</html>
