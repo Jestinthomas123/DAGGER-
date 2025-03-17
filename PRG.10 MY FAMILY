@@ -1,0 +1,77 @@
+family.html
+
+<html>
+
+<head>
+
+<title>My Family</title>
+
+</head>
+
+<body bgcolor="cyan">
+
+<h1>My Family</h1>
+
+<h2><a href="father.html">Father</a></h2>
+
+<h2><a href="mother.html">Mother</a></h2>
+
+<h2><a href="sister.html">Sister</a></h2>
+
+</body>
+
+</html>
+
+father.html
+
+<html>
+
+<head>
+
+<title>Father</title>
+
+</head>
+
+<body bgcolor="lightblue">
+
+<h2>My father's name is Jacob and he is a doctor</h2>
+
+</body>
+
+</html>
+
+mother.html
+
+<html>
+
+<head>
+
+<title>Mother</title>
+
+</head>
+
+<body bgcolor="lightpink">
+
+<h2>My mother's name is Katherine and she is a teacher</h2>
+
+</body>
+
+</html>
+
+sister.html
+
+<html>
+
+<head>
+
+<title>Sister</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h2>My sister's name is Anna and she is studying at 5th standard</h2>
+
+</body>
+
+</html>
