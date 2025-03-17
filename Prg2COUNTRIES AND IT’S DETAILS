@@ -1,0 +1,96 @@
+world.html
+
+<html>
+
+<head>
+
+<title>The World</title>
+
+</head>
+
+<body>
+
+<h1><b><u>The World</u></b></h1>
+
+<p>
+
+<a href="india.html">India</a><br>
+
+<a href="us.html">United States</a><br>
+
+<a href="england.html">England</a><br>
+
+<a href="france.html">France</a><br>
+
+</p>
+
+</body>
+
+</html>
+
+india.html
+
+<html>
+
+<head>
+
+<title>India</title>
+</head>
+<body>
+<h1><b><u>India</u></b></h1>
+<p>
+India, officially the Republic of India, is a country in South Asia. It is the seventh-
+largest country by area, the second-most populous country, and the most populous 
+democracy in the world.
+</p>
+<a href="world.html">Back</a>
+</body>
+</html>
+us.html
+<html>
+<head>
+<title>United States</title>
+</head>
+<body>
+<h1><b><u>United States</u></b></h1>
+<p>
+The United States of America, commonly known as the United States is a country 
+primarily located in North America. It consists of 50 states, a federal district, five major 
+unincorporated territories, 326 Indian reservations, and nine minor outlying islands. The 
+national capital is Washington, D.C., and the most populous city and financial center is 
+New York City.
+</p>
+<a href="world.html">Back</a>
+</body>
+</html>
+england.html
+<html>
+<head>
+<title>England</title>
+</head>
+<body>
+<h1><b><u>England</u></b></h1>
+<p>
+England is a country that is part of the United Kingdom. London is the capital city. The 
+country covers five-eighths of the island of Great Britain, which lies in the North 
+Atlantic, and includes over 100 smaller islands, such as the Isles of Scilly and the Isle of 
+Wight.
+</p>
+<a href="world.html">Back</a>
+</body>
+</html>
+france.html
+<html>
+<head>
+<title>France</title>
+</head>
+<body>
+<h1><b><u>France</u></b></h1>
+<p>
+France, in Western Europe, encompasses medieval cities, alpine villages and 
+Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art 
+museums including the Louvre and monuments like the Eiffel Tower.
+</p>
+<a href="world.html">Back</a>
+</body>
+</html>
