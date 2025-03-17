@@ -1,0 +1,249 @@
+frames.html
+
+<html>
+
+<head>
+
+<title>Frames</title>
+
+</head>
+
+<frameset cols="145">
+
+<frame src="frame1.html">
+
+</frameset>
+
+</html>
+
+frame1.html
+
+<html>
+
+<head>
+
+<title>Frame 1</title>
+
+</head>
+
+<body bgcolor="lightyellow">
+
+<h1 align="center"><marquee>WIMS Hospital</marquee></h1>
+
+<a href="frame2.html"><h4 align="center">Click here to view more 
+
+information.</h4></a> 
+
+</body>
+
+</html>
+
+frame2.html
+
+<html>
+
+<head>
+
+<title>Frame 2</title>
+
+</head>
+
+<frameset rows="50%, 50%, 50%, 50%">
+
+<frame src="frame3.html">
+
+<frame src="frame4.html">
+
+<frame src="frame5.html">
+
+<frame src="frame6.html">
+
+</frameset>
+
+</html>
+
+frame3.html
+
+<html>
+
+<head>
+
+<title>Frame 3</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h3 align="center">
+
+<a href="frame7.html">SPECIALISTS</a>
+
+</h3>
+
+</body>
+
+</html>
+
+frame4.html
+
+<html>
+
+<head>
+
+<title>Frame 4</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h3 align="center">
+
+<a href="frame8.html">No. OF ROOMS</a>
+
+</h3>
+
+</body>
+
+</html>
+
+frame5.html
+
+<html>
+
+<head>
+
+<title>Frame 5</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h3 align="center">
+
+<a href="frame9.html">No. OF STAFFS</a>
+
+</h3>
+
+</body>
+
+</html>
+
+frame6.html
+
+<html>
+
+<head>
+
+<title>Frame 6</title>
+
+</head>
+
+<body bgcolor="lightgreen">
+
+<h3 align="center">
+
+<a href="frame10.html">No. OF OPERATIONS</a>
+
+</h3>
+
+</body>
+
+</html>
+
+frame7.html
+
+<html>
+
+<head>
+
+<title>Frame 7</title>
+
+</head>
+
+<body bgcolor="lightblue">
+
+<h3 align="center">
+
+Cardiologists <br>
+
+ENT Specialists <br>
+
+Neurologists <br>
+
+Gynecologists
+
+</h3>
+
+</body>
+
+</html>
+
+frame8.html
+
+<html>
+
+<head>
+
+<title>Frame 8</title>
+
+</head>
+
+<body bgcolor="lightblue">
+
+<h3 align="center">
+
+No. of rooms vacant = 20 <br>
+
+General wards = 2
+
+</h3>
+
+</body>
+
+</html>
+
+frame9.html
+
+<html>
+
+<head>
+
+<title>Frame 9</title>
+
+</head>
+
+<body bgcolor="lightblue">
+
+<h3 align="center">
+
+Doctors = 20 <br>
+
+Nurses = 50
+
+</h3>
+
+</body>
+
+</html>
+
+frame10.html
+
+<html>
+
+<head>
+
+<title>Frame 10</title>
+
+</head>
+
+<body bgcolor="lightblue">
+
+<h3 align="center">
+
+Operation theatres = 5
+
+</h3>
+
+</body>
+
+</html>
