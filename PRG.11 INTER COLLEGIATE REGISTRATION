@@ -1,44 +1,56 @@
-<html>
-<head>
-<title>Inter Collegiate</title>
-</head>
-<body>
-<form>
-<fieldset>
-<legend><b>Inter Collegiate Registration</b></legend>
-<table>
-<tr>
-<td><label for="name">Name:</label></td>
-<td><input id="name" type="text"></td>
-</tr>
-<tr>
-<td><label for="department">Department:</label></td>
-<td>
-<select id="department">
-<option value="bca">BCA</option>
-<option value="bsccs">Bsc.CS</option>
-<option value="ba">BA</option>
-<option value="bba">BBA</option>
-<option value="bcom">B.Com</option>
-</select>
-</td>
-</tr>
-<tr>
-<td><label for="college">College:</label></td>
-<td><input id="college" type="text"></td>
-</tr>
-<tr>
-<td><label for="events">Events:</label></td>
-<td>
-<input type="checkbox" id="paperPresentation">Paper Presentation
-<input type="checkbox" id="quiz">Quiz
-<input type="checkbox" id="wordHunt">Word Hunt
-<input type="checkbox" id="webDesigning">Web Designing
-</td>
-</tr>
-</table>
-<button type="submit">Submit</button>
-</form>
-</fieldset>
-</body>
+
+
+
+<html> 
+<head> 
+    <title>Alumni Registration</title> 
+</head> 
+<body bgcolor="gray"> 
+    <form> 
+        <h1 align="center"><b><i><u>Alumni Registration</u></i></b></h1> 
+        <table> 
+            <tr> 
+                <td>Name:</td> 
+                <td><input type="text"></td> 
+            </tr> 
+            <tr> 
+                <td>Date of Birth:</td> 
+                <td><input type="date"></td> 
+            </tr> 
+            <tr> 
+                <td>Gender:</td> 
+                <td> 
+                    <input type="radio">Male 
+                    <input type="radio">Female 
+                </td> 
+            </tr> 
+            <tr> 
+                <td>Permanent Address:</td> 
+                <td><textarea cols="21" rows="4"></textarea></td> 
+            </tr> 
+            <tr> 
+                <td>Address for Communication:</td> 
+                <td><textarea cols="21" rows="4"></textarea></td> 
+            </tr> 
+            <tr> 
+                <td>Phone Number:</td> 
+                <td><input type="text"></td> 
+            </tr> 
+            <tr> 
+                <td>Email:</td> 
+                <td><input type="text"></td> 
+            </tr> 
+            <tr> 
+                <td>Mode of Contact:</td> 
+                <td> 
+                    <input type="checkbox">Email 
+                    <input type="checkbox">Post 
+                </td> 
+            </tr> 
+            <tr> 
+                <td><input type="submit"></td> 
+            </tr> 
+        </table> 
+    </form> 
+</body> 
 </html>
